@@ -8,6 +8,54 @@
 
 body {
     font-family: "Montserrat", sans-serif;
-    text-align: center;
+    color: #404040;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 20px;
+    background-image: url(../images/imagem-fundo.png);
+    background-size: cover;
+    background-position: 50%;
+}
 
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 50px;
+    border-radius: 30px;
+
+    background-color: white;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+input {
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: #F1F1F1;
+}
+
+button {
+    padding: 10px 15px;
+    border-radius: 30px;
+    border: none;
+    background-image: linear-gradient(#256A8A, #3393C1);
+    border: solid 1px #256A8A;
+    border-right-width: 4px;
+    border-bottom-width: 4px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+    align-self: center;
+    width: 160px;
+}
+
+a {
+    color: rgb(0, 174, 255);
+    font-weight: 500;
 }
