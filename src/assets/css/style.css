@@ -59,3 +59,32 @@ a {
     color: rgb(0, 174, 255);
     font-weight: 500;
 }
+
+.titulo {
+    display: flex;
+    flex-direction: column;
+    gap: 5;
+}
+
+.barra--horizontal {
+    background-color: #F87842;
+    height: 5px;
+    width: 210px;
+}
+
+.campo--input {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.checkbox {
+    display: flex;
+    gap: 5px;
+    font-size: 14px;
+}
+
+.esqueceu--senha {
+    text-align: center;
+}
+
