@@ -1,7 +1,7 @@
 # Projeto de Login Simples
 Este projeto consiste em uma página de login básica desenvolvida utilizando HTML e CSS puro. A interface é simples e intuitiva, permitindo que os usuários insiram seu e-mail e senha para acessar o sistema. Além disso, a página oferece a opção de lembrar os dados de login e um link para recuperação de senha.
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 HTML: Estruturação da página e elementos do formulário.
 
 CSS: Estilização da página, incluindo layout, cores e fontes.
